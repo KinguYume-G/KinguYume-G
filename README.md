@@ -3,21 +3,21 @@
 </p>
 
 
-#### A Devout Lifelong Learning AI Developer
----
-## Current Projects：
+#### A Devout Lifelong Learning AI Developer.
+
+ My Current Projects：
 - XueMai - Intelligent campus networking and academic collaboration platform
 - SynTour - AI-driven travel planning platform with LangGraph workflows
 - FridgeLedger - AI receipt scanner and food waste tracking system
 - Smart Campus AI - AI Digital Human and Smart Navigation System
 
 
-## Tech Stack：
+Tech Stack：
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,postgres,redis,docker,git,github,linux,vercel,cloudflare,figma,vscode)](https://skillicons.dev)
 
 
-## Connect With Me：
+Connect With Me：
 - Email - [g0184036940@gmail.com](mailto:g0184036940@gmail.com)
 - LinkedIn - https://www.linkedin.com/in/jeffrey-g962464
 - YouTube - https://www.youtube.com/@Jeffrey-G96246
@@ -25,4 +25,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-contribution-grid-snake.gif" alt="github contribution snake animation" width="100%" />
 </p>
----

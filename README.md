@@ -53,7 +53,7 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 
 ## Connect With Me
 
-- Email - mailto:g0184036940@gmail.com
+- Email - [g0184036940@gmail.com](mailto:g0184036940@gmail.com)
 - LinkedIn - https://www.linkedin.com/in/jeffrey-g962464
 - X - https://x.com/jeffrey962464
 - YouTube - https://www.youtube.com/@Jeffrey-G96246

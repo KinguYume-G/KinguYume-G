@@ -45,9 +45,13 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 
 ## GitHub Stats
 
-![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KinguYume-G&show_icons=true&theme=tokyonight&count_private=true)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KinguYume-G&theme=tokyonight" alt="Jeffrey Gao GitHub profile summary" width="100%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinguYume-G&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KinguYume-G&theme=tokyonight" alt="Jeffrey Gao top languages" />
+</p>
 
 ---
 
@@ -70,16 +74,3 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 </picture>
 
 ---
-
-## Philosophy
-
-> The future belongs to those who can combine intelligence, creativity, and engineering into systems that create real-world impact.
-
----
-
-## Goals
-
-- Build world-class AI systems
-- Become an AI Systems Architect
-- Create impactful AI products
-- Push the boundaries of intelligent software

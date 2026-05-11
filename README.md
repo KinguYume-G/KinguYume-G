@@ -1,10 +1,11 @@
+```markdown
 <p align="center">
   <img src="./header.png" alt="Jeffrey Gao profile header" width="100%" />
 </p>
 
 # Hi, I'm Jeffrey Gao
 
-#### A Devout Lifelong Learning AI Developer
+#### AI Engineer • Full Stack Developer • Agentic Systems Builder
 
 ---
 
@@ -46,7 +47,7 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 ## Connect With Me
 
 - Email - [g0184036940@gmail.com](mailto:g0184036940@gmail.com)
-- LinkedIn - https://www.linkedin.com/in/jeffrey-g962464
+- LinkedIn - https://www.linkedin.com/
 - X - https://x.com/jeffrey962464
 - YouTube - https://www.youtube.com/@Jeffrey-G96246
 - Reddit - https://www.reddit.com/user/Cool-Coach-2702
@@ -58,5 +59,4 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 <p align="center">
   <img src="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-contribution-grid-snake.gif" alt="github contribution snake animation" width="100%" />
 </p>
-
----
+```

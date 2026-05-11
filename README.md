@@ -43,18 +43,6 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KinguYume-G&theme=tokyonight" alt="Jeffrey Gao GitHub profile summary" width="100%" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KinguYume-G&theme=tokyonight" alt="Jeffrey Gao top languages" />
-</p>
-
----
-
 ## Connect With Me
 
 - Email - [g0184036940@gmail.com](mailto:g0184036940@gmail.com)
@@ -67,10 +55,8 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 
 ## Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/ocean.gif" alt="github contribution snake animation" width="100%" />
+</p>
 
 ---

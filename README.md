@@ -6,10 +6,7 @@
 #### A Devout Lifelong Learning AI Developer
 ---
 
-## About Me
-Computer Science & AI Enthusiast<br>
-Passionate about AI Systems, Agentic Workflows, and Full Stack Engineering<br>
-Building intelligent products powered by LLMs and modern AI infrastructure
+
 
 ---
 ## Current Projects

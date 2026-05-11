@@ -1,46 +1,85 @@
-![image](https://user-images.githubusercontent.com/87692325/168801884-7996266d-a2eb-4c7f-9dfc-5eb8e3960aad.png)
+<p align="center">
+  <img src="./header.png" alt="Jeffrey Gao profile header" width="100%" />
+</p>
 
-#### The key to artificial intelligence has always been the representation. 
+# Hi, I'm Jeffrey Gao
 
-I’m currently working on :
+#### A Devout Lifelong Learning AI Developer
 
-- Oncoos.ai - Supercharged AI Driven Clinical Platform for Cancer Diagnosis
-- Verax.AI - Elevate your hiring process with Next-level recruitment tool 🎉
+---
 
-Tools : 
+## About Me
 
-[![My Tools](https://skillicons.dev/icons?i=docker,git,github,vercel,cloudflare,idea,postman,stackoverflow,figma)](https://github.com/jameswong3388)
+Computer Science & AI Enthusiast<br>
+Passionate about AI Systems, Agentic Workflows, and Full Stack Engineering<br>
+Building intelligent products powered by LLMs and modern AI infrastructure
 
-How to reach me :
+---
 
-- [Email](mailto:jameswong0517@gmail.com) - `jameswong0517@gmail.com`
-- Discord - Chat with me `jameswong3388` !
-- [Twitter](https://twitter.com/jameswong3388)
-- [LinkedIn](https://www.linkedin.com/in/jameswong3388/)
+## Current Projects
+
+- Decypher AI - AI-powered opportunity discovery and decision intelligence platform
+- SynTour - AI-driven travel planning platform with LangGraph workflows
+- FridgeLedger - AI receipt scanner and food waste tracking system
+- Smart Campus AI - AI Digital Human and Smart Navigation System
+
+---
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,postgres,redis,docker,git,github,linux,vercel,cloudflare,figma,vscode)](https://skillicons.dev)
+
+---
+
+## AI / LLM Engineering
+
+- Agentic AI Systems
+- LangGraph Workflows
+- Multi-Agent Architecture
+- RAG Pipelines
+- Real-time Streaming with SSE and WebSocket
+- AI Product Engineering
+- LLM Inference Systems
+
+---
+
+## GitHub Stats
+
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KinguYume-G&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinguYume-G&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+- Email - mailto:g0184036940@gmail.com
+- LinkedIn - https://www.linkedin.com/in/jeffrey-g962464
+- X - https://x.com/jeffrey962464
+- YouTube - https://www.youtube.com/@Jeffrey-G96246
+- Reddit - https://www.reddit.com/user/Cool-Coach-2702
+
+---
+
+## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-snake.svg" />
 </picture>
 
-<!-- My github stats:
+---
 
-<!--  ![James wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameswong3388&show_icons=true&theme=gotham&count_private=true)
+## Philosophy
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameswong3388&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> The future belongs to those who can combine intelligence, creativity, and engineering into systems that create real-world impact.
 
-<!--
-**jameswong3388/jameswong3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build world-class AI systems
+- Become an AI Systems Architect
+- Create impactful AI products
+- Push the boundaries of intelligent software

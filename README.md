@@ -2,8 +2,7 @@
   <img src="./header.png" alt="Jeffrey Gao profile header" width="100%" />
 </p>
 
-
-#### A Devout Lifelong Learning AI Developer.
+#### A Devout Lifelong Learning AI Developer
 
  My Current Projects：
 - XueMai - Intelligent campus networking and academic collaboration platform
@@ -15,7 +14,6 @@
 Tech Stack：
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,postgres,redis,docker,git,github,linux,vercel,cloudflare,figma,vscode)](https://skillicons.dev)
-
 
 Connect With Me：
 - Email - [g0184036940@gmail.com](mailto:g0184036940@gmail.com)

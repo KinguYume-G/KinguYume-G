@@ -32,6 +32,8 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 - YouTube - https://www.youtube.com/@Jeffrey-G96246
 - Reddit - https://www.reddit.com/user/Cool-Coach-2702
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KinguYume-G/KinguYume-G/output/github-contribution-grid-snake.gif" alt="github contribution snake animation" width="100%" />
 </p>

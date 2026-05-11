@@ -11,24 +11,26 @@
 
 ## About Me
 
-Computer Science & AI Enthusiast<br>
-Passionate about AI Systems, Agentic Workflows, and Full Stack Engineering<br>
+Computer Science & AI Enthusiast  
+Passionate about AI Systems, Agentic Workflows, and Full Stack Engineering  
 Building intelligent products powered by LLMs and modern AI infrastructure
 
 ---
 
 ## Current Projects
 
-- Decypher AI - AI-powered opportunity discovery and decision intelligence platform
-- SynTour - AI-driven travel planning platform with LangGraph workflows
-- FridgeLedger - AI receipt scanner and food waste tracking system
-- Smart Campus AI - AI Digital Human and Smart Navigation System
+- Decypher AI — AI-powered opportunity discovery and decision intelligence platform
+- SynTour — AI-driven travel planning platform with LangGraph workflows
+- FridgeLedger — AI receipt scanner and food waste tracking system
+- Smart Campus AI — AI Digital Human and Smart Navigation System
 
 ---
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,postgres,redis,docker,git,github,linux,vercel,cloudflare,figma,vscode)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,typescript,postgres,redis,docker,git,github,linux,vercel,cloudflare,figma,vscode" />
+</p>
 
 ---
 
@@ -44,13 +46,24 @@ Building intelligent products powered by LLMs and modern AI infrastructure
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KinguYume-G&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KinguYume-G&theme=tokyonight" />
+</p>
+
+---
+
 ## Connect With Me
 
-- Email - [g0184036940@gmail.com](mailto:g0184036940@gmail.com)
-- LinkedIn - https://www.linkedin.com/
-- X - https://x.com/jeffrey962464
-- YouTube - https://www.youtube.com/@Jeffrey-G96246
-- Reddit - https://www.reddit.com/user/Cool-Coach-2702
+- Email — [g0184036940@gmail.com](mailto:g0184036940@gmail.com)
+- X — https://x.com/jeffrey962464
+- YouTube — https://www.youtube.com/@Jeffrey-G96246
+- Reddit — https://www.reddit.com/user/Cool-Coach-2702
 
 ---
 
